@@ -18,13 +18,12 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Zihao Zhu personal academic homepage trustworthy ai.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: '_TCOT09j9xJa-C_sEiWQRixdvo-OX1pOwCeMGvSUcB0'
     baidu: ''
 
 # Site header
@@ -38,17 +37,11 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: 'Zihao Zhu © {year}'
 
 # Localization
 
